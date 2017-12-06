@@ -9,3 +9,5 @@ linux
 computing
 humour
 science-fiction
+hb tachyon
+humble bundle
